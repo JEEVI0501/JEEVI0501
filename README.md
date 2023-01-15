@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEEVI0501&theme=dark&show_icons=true)
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JEEVI0501&theme=react&line_height=40&hide=css"/> </a>
 <!--
 **JEEVI0501/JEEVI0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
