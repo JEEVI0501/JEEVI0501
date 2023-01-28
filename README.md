@@ -3,7 +3,8 @@
 - 🌱 I'm JEEVICKHA K A
 - 🎨 Occational Artist✨
 - ❤️‍🔥 State lvl throwball player
-- 💁‍♀️ An upcoming web developer
+- 🌱 An upcoming web/app developer
+- 💁‍♀️ More interst in UI/UX development
 - 👩‍💻 Internships :
 - 💻@ MAXBYTE https://maxbyte.co/ as a FRONT END DEVELOPER
 - 💻@ RND SOFTECH https://www.rndsoftech.com/ as a WEB DEVELOPER  
