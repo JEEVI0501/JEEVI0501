@@ -7,8 +7,8 @@
 - 💁‍♀️ More interst in UI/UX development
 - 👩‍💻 Internships :
 - 💻@ MAXBYTE https://maxbyte.co/ as a FRONT END DEVELOPER
-- 💻@ RND SOFTECH https://www.rndsoftech.com/ as a WEB DEVELOPER  
-
+- 💻@ RND SOFTECH https://www.rndsoftech.com/ as a WEB DEVELOPER
+- 💻@ Kuriyam.IO https://kuriyam.io/ as a Application DEVELOPER
 <!--  <a href=""> <img align="center" src="https://github-readme-stats-sigma-six.vercel.app/api/top-langs/?username=JEEVI0501&theme=react&layout=compact&line_height=40&hide=css"/> </a> -->
 <!--
 **JEEVI0501/JEEVI0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
